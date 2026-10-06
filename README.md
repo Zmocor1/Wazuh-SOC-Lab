@@ -1,4 +1,4 @@
-# Wazuh-SOC-Lab
+# Lab 1 - Wazuh-SOC-Lab
 Built a local Wazuh SIEM lab to monitor a Windows endpoint and validate alert ingestion.
 # Lab Steps
 - Installed Wazuh all-in-one on Ubuntu VM
